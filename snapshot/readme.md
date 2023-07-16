@@ -1,1 +1,1 @@
-# Snapshot Maven Repository
+# Snapshot Maven Repositories
