@@ -4,11 +4,12 @@ My maven Repo
 ### Usage
 
 Add Repositories:
-```diff
+```gradle
 repositories {
-+    maven {
-+        name = "MrCraftTeamMC Maven"
-+        url = "https://raw.githubusercontent.com/erha134/maven-repo/main/releases/"
-+    }
+    // Add This
+    maven {
+        name = "MrCraftTeamMC Maven"
+        url = "https://raw.githubusercontent.com/erha134/maven-repo/main/releases/"
+    }
 }
 ```
