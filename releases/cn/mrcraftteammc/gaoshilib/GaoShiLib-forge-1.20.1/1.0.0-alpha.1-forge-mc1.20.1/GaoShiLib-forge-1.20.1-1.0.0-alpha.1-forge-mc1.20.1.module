@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.mrcraftteammc.gaoshilib",
+    "module": "GaoShiLib-forge-1.20.1",
+    "version": "1.0.0-alpha.1-forge-mc1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Fallen-Breath",
+          "module": "conditional-mixin",
+          "version": {
+            "requires": "v0.3.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "fabric-loader"
+            }
+          ]
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "dev.architectury",
+          "module": "architectury-forge",
+          "version": {
+            "requires": "9.1.12"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-forge-1.20.1-1.0.0-alpha.1-forge-mc1.20.1.jar",
+          "url": "GaoShiLib-forge-1.20.1-1.0.0-alpha.1-forge-mc1.20.1.jar",
+          "size": 74190,
+          "sha512": "9e3093baba12b03207073b1ab278de74e8d573cedac681edeb1d9ac197c474f674351329d53206dd2da28e54c6e40f1542ecf54f5f411eec48c18f6663e44d29",
+          "sha256": "005d161ecbec5ca0f1ae974bf60946b02b69035f3ca84a62f825b7cd24651dc6",
+          "sha1": "d9181cec6e449461de5bdd187a9014943acee831",
+          "md5": "8a8594cad1c1d25faaff2691d34a9af5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Fallen-Breath",
+          "module": "conditional-mixin",
+          "version": {
+            "requires": "v0.3.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "fabric-loader"
+            }
+          ]
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "dev.architectury",
+          "module": "architectury-forge",
+          "version": {
+            "requires": "9.1.12"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-forge-1.20.1-1.0.0-alpha.1-forge-mc1.20.1.jar",
+          "url": "GaoShiLib-forge-1.20.1-1.0.0-alpha.1-forge-mc1.20.1.jar",
+          "size": 74190,
+          "sha512": "9e3093baba12b03207073b1ab278de74e8d573cedac681edeb1d9ac197c474f674351329d53206dd2da28e54c6e40f1542ecf54f5f411eec48c18f6663e44d29",
+          "sha256": "005d161ecbec5ca0f1ae974bf60946b02b69035f3ca84a62f825b7cd24651dc6",
+          "sha1": "d9181cec6e449461de5bdd187a9014943acee831",
+          "md5": "8a8594cad1c1d25faaff2691d34a9af5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-forge-1.20.1-1.0.0-alpha.1-forge-mc1.20.1-sources.jar",
+          "url": "GaoShiLib-forge-1.20.1-1.0.0-alpha.1-forge-mc1.20.1-sources.jar",
+          "size": 33203,
+          "sha512": "5dbd6cd6e1d2b1175150ee7adfd525e87fa3112c9757750531c425a2a1760c4aa5b893f9dddf9af3e66b3b356276eea5ed25d10d595386d8b3fcfd46f7656e52",
+          "sha256": "4b31601d8f46b9fc49045dd3ce8fc7ebfbb3e1f95c7f3f79750a4f4ea4bde184",
+          "sha1": "9ebec666c7c39e5b16d202145bf3f38971f9b8e1",
+          "md5": "e7e45537092582be667b0b374b612f1a"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.mrcraftteammc.gaoshilib",
+    "module": "GaoShiLib-xplat-1.20.1",
+    "version": "1.0.0-alpha.1-mc1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "dev.architectury",
+          "module": "architectury",
+          "version": {
+            "requires": "9.1.12"
+          }
+        },
+        {
+          "group": "dev.onyxstudios.cardinal-components-api",
+          "module": "cardinal-components-api",
+          "version": {
+            "requires": "5.2.1"
+          }
+        },
+        {
+          "group": "com.github.Fallen-Breath",
+          "module": "conditional-mixin",
+          "version": {
+            "requires": "v0.3.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "fabric-loader"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.1-mc1.20.1.jar",
+          "url": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.1-mc1.20.1.jar",
+          "size": 35413,
+          "sha512": "dfd4f1f3bbf78e08bd47da62c0ef9b7d77325f7bd6d25f69ee3d56d57beda9db369f7c6a273a49a6d9080b78c1a8623cca4af32d641300a6694a8b150d5f13f0",
+          "sha256": "e1f214554713cd1607c6302b247901de12a4881a8c5dbbf2f012ff3c5b337173",
+          "sha1": "bf3e994e5aacb3daf799488a0b1a8b3e168ae7c8",
+          "md5": "def4aae0e2270c2b346359a91d4b6e38"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "dev.architectury",
+          "module": "architectury",
+          "version": {
+            "requires": "9.1.12"
+          }
+        },
+        {
+          "group": "dev.onyxstudios.cardinal-components-api",
+          "module": "cardinal-components-api",
+          "version": {
+            "requires": "5.2.1"
+          }
+        },
+        {
+          "group": "com.github.Fallen-Breath",
+          "module": "conditional-mixin",
+          "version": {
+            "requires": "v0.3.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "fabric-loader"
+            }
+          ]
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.22"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "ho-library",
+          "version": {
+            "requires": "0.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.1-mc1.20.1.jar",
+          "url": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.1-mc1.20.1.jar",
+          "size": 35413,
+          "sha512": "dfd4f1f3bbf78e08bd47da62c0ef9b7d77325f7bd6d25f69ee3d56d57beda9db369f7c6a273a49a6d9080b78c1a8623cca4af32d641300a6694a8b150d5f13f0",
+          "sha256": "e1f214554713cd1607c6302b247901de12a4881a8c5dbbf2f012ff3c5b337173",
+          "sha1": "bf3e994e5aacb3daf799488a0b1a8b3e168ae7c8",
+          "md5": "def4aae0e2270c2b346359a91d4b6e38"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.1-mc1.20.1-sources.jar",
+          "url": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.1-mc1.20.1-sources.jar",
+          "size": 30555,
+          "sha512": "5b048560f6270ecebbd999bd714259b28e029cef781476274a5e3a04d1bb5c3309eda99ead6d3da93bd83d42f4f25553d5c351ca6c76288a113e8eff13b3e565",
+          "sha256": "ba13e27237adc9c8f25cd7287fdb320d271cf852ea2d4ce77c46286dabe41bb9",
+          "sha1": "0a63a5bd4505babe6c4cde224a938512ab8b0c45",
+          "md5": "f263a355292e4c8c630fe0e14d002a1e"
+        }
+      ]
+    }
+  ]
+}

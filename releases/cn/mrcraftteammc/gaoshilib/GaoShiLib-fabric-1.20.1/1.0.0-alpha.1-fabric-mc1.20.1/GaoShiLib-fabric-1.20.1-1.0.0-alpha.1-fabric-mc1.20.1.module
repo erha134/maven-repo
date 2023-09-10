@@ -1,0 +1,166 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.mrcraftteammc.gaoshilib",
+    "module": "GaoShiLib-fabric-1.20.1",
+    "version": "1.0.0-alpha.1-fabric-mc1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.1+1.20.1"
+          }
+        },
+        {
+          "group": "dev.architectury",
+          "module": "architectury-fabric",
+          "version": {
+            "requires": "9.1.12"
+          }
+        },
+        {
+          "group": "com.github.Fallen-Breath",
+          "module": "conditional-mixin",
+          "version": {
+            "requires": "v0.3.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "fabric-loader"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
+          "url": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
+          "size": 75203,
+          "sha512": "3b38786f876b22a02f1c5e35a105b2de5b7d4769ee4285030efef55d490474b614ea40e33b318673c16d5e3018e73d4372775ff3f999db6878600e2b98c4c880",
+          "sha256": "39f6451df5aa6220cc62c7fbc3b8af983be091cb6455782efae36bfbb2beb66b",
+          "sha1": "ca0dc3458028f86dba3b6a9b3d034b8e092bab15",
+          "md5": "4ea07fb1b06d276a5ef0a57e39ac1e1c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.86.1+1.20.1"
+          }
+        },
+        {
+          "group": "dev.architectury",
+          "module": "architectury-fabric",
+          "version": {
+            "requires": "9.1.12"
+          }
+        },
+        {
+          "group": "com.github.Fallen-Breath",
+          "module": "conditional-mixin",
+          "version": {
+            "requires": "v0.3.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "fabric-loader"
+            }
+          ]
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.22"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "7.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
+          "url": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
+          "size": 75203,
+          "sha512": "3b38786f876b22a02f1c5e35a105b2de5b7d4769ee4285030efef55d490474b614ea40e33b318673c16d5e3018e73d4372775ff3f999db6878600e2b98c4c880",
+          "sha256": "39f6451df5aa6220cc62c7fbc3b8af983be091cb6455782efae36bfbb2beb66b",
+          "sha1": "ca0dc3458028f86dba3b6a9b3d034b8e092bab15",
+          "md5": "4ea07fb1b06d276a5ef0a57e39ac1e1c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1-sources.jar",
+          "url": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1-sources.jar",
+          "size": 34410,
+          "sha512": "a09544f5170475f6d0774f747a15c7e5d59a4826970ce214d419dc728ba151af2e3136898ae3d2adf700698d4af45bea81dc08730e67620b079aeaccde923df0",
+          "sha256": "3dbeaf6c85554a3e7994e4bf2592bba4f8ee3d897bc1ec0794d05ec7aa9f2b05",
+          "sha1": "0d239c93943e1f65d1049f36042ee75170498401",
+          "md5": "72e00da2d2a9bd6527f6f4c0e29a30f8"
+        }
+      ]
+    }
+  ]
+}
