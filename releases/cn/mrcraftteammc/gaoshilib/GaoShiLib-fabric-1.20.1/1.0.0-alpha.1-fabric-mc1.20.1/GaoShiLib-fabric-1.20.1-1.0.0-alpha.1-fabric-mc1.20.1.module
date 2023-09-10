@@ -63,11 +63,11 @@
         {
           "name": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
           "url": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
-          "size": 75203,
-          "sha512": "3b38786f876b22a02f1c5e35a105b2de5b7d4769ee4285030efef55d490474b614ea40e33b318673c16d5e3018e73d4372775ff3f999db6878600e2b98c4c880",
-          "sha256": "39f6451df5aa6220cc62c7fbc3b8af983be091cb6455782efae36bfbb2beb66b",
-          "sha1": "ca0dc3458028f86dba3b6a9b3d034b8e092bab15",
-          "md5": "4ea07fb1b06d276a5ef0a57e39ac1e1c"
+          "size": 75202,
+          "sha512": "1cd7d6cb5e10f6054231688bff2c43afb3839691cc9965c462150868e7df0f53fed3ea93e1dd0a53387dfde5eea280ad2707938375e8f5ac61cef86d8f319cb1",
+          "sha256": "d5fd97a8af2f6141923e49924566b37f298e6bc16b53a4ba83ab8c59af4831a0",
+          "sha1": "2bb5c4fe473e920c471dc06c32d7e382ef7ca11e",
+          "md5": "fcc6b3680bf3d875e7f9f09a511caf8b"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "name": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
           "url": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1.jar",
-          "size": 75203,
-          "sha512": "3b38786f876b22a02f1c5e35a105b2de5b7d4769ee4285030efef55d490474b614ea40e33b318673c16d5e3018e73d4372775ff3f999db6878600e2b98c4c880",
-          "sha256": "39f6451df5aa6220cc62c7fbc3b8af983be091cb6455782efae36bfbb2beb66b",
-          "sha1": "ca0dc3458028f86dba3b6a9b3d034b8e092bab15",
-          "md5": "4ea07fb1b06d276a5ef0a57e39ac1e1c"
+          "size": 75202,
+          "sha512": "1cd7d6cb5e10f6054231688bff2c43afb3839691cc9965c462150868e7df0f53fed3ea93e1dd0a53387dfde5eea280ad2707938375e8f5ac61cef86d8f319cb1",
+          "sha256": "d5fd97a8af2f6141923e49924566b37f298e6bc16b53a4ba83ab8c59af4831a0",
+          "sha1": "2bb5c4fe473e920c471dc06c32d7e382ef7ca11e",
+          "md5": "fcc6b3680bf3d875e7f9f09a511caf8b"
         }
       ]
     },
@@ -155,10 +155,10 @@
           "name": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1-sources.jar",
           "url": "GaoShiLib-fabric-1.20.1-1.0.0-alpha.1-fabric-mc1.20.1-sources.jar",
           "size": 34410,
-          "sha512": "a09544f5170475f6d0774f747a15c7e5d59a4826970ce214d419dc728ba151af2e3136898ae3d2adf700698d4af45bea81dc08730e67620b079aeaccde923df0",
-          "sha256": "3dbeaf6c85554a3e7994e4bf2592bba4f8ee3d897bc1ec0794d05ec7aa9f2b05",
-          "sha1": "0d239c93943e1f65d1049f36042ee75170498401",
-          "md5": "72e00da2d2a9bd6527f6f4c0e29a30f8"
+          "sha512": "a7619b6e2acfbf6076c380ad11863d1004ad9418d352aa1d35a5e52ace1765064189d534c50b6cd870a051e4b94e106a0921048d355d773352482cca40c6bc85",
+          "sha256": "2a99f7480b0ceb5e9e801b789d194a45e888b15576dcc3cc8b9760cafc4b1a90",
+          "sha1": "b76879640a9975c976983feb5b73110180fa2acb",
+          "md5": "14947d356138505b910805a37d9baad9"
         }
       ]
     }
