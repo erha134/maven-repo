@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.mrcraftteammc.gaoshilib",
+    "module": "GaoShiLib-sponge-1.20.1",
+    "version": "1.0.0-alpha.2-sponge-mc1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
+          "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
+          "size": 2050,
+          "sha512": "1a647758045d73c0ae1fec5e709c1098c593392a3a3c27be856968d2c8fe692509384d91fbefdefff3b4eb55510316920dd5ff11b17c8ed6f01ec38ece86726e",
+          "sha256": "a642a14a8860a5c7e8ec450044eb3c48c1e68ac7e8b48387458bcfe4d2c7ad47",
+          "sha1": "0114f6556232a5845440f39cb2998a839075a941",
+          "md5": "8df41e75d3ea9c3beb050fb108257874"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.spongepowered",
+          "module": "spongeapi",
+          "version": {
+            "requires": "10.0.0"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
+          "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
+          "size": 2050,
+          "sha512": "1a647758045d73c0ae1fec5e709c1098c593392a3a3c27be856968d2c8fe692509384d91fbefdefff3b4eb55510316920dd5ff11b17c8ed6f01ec38ece86726e",
+          "sha256": "a642a14a8860a5c7e8ec450044eb3c48c1e68ac7e8b48387458bcfe4d2c7ad47",
+          "sha1": "0114f6556232a5845440f39cb2998a839075a941",
+          "md5": "8df41e75d3ea9c3beb050fb108257874"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-sources.jar",
+          "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-sources.jar",
+          "size": 1750,
+          "sha512": "9927dcd0f411c905e4d1d5163ea88926dc37beca137babcdad068e6adfb452afd451895b53ac9b8af1d822c8f1d0198804f82f6fef2bce4d65b90ea0328adfb5",
+          "sha256": "3e359d8c32635f1f0fdeead5f13ac6cc4b573fbead88350b9566a12c6b88149b",
+          "sha1": "f3ae8c044bdc178be797989488aafdf4bc1c11c7",
+          "md5": "a3c5c830255c79422e6280081e50ac46"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-all.jar",
+          "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-all.jar",
+          "size": 10055901,
+          "sha512": "813acbbf148c5e800a5d43dd78000d56a4e91f5ec6cf47b843338a6936dbb08e8e183cccc1df5739ebfb3263df8504a476c347df7670fd11b804ac78a591ed6f",
+          "sha256": "1286047725d6ab6ee7826c02e685eaa026a1fc0f449ba17de0f0a2d22a13df53",
+          "sha1": "99c426195cf5c4de0fd7c62afd4043abbab33a34",
+          "md5": "03dcc1b597b3fe50de4e040148be05e5"
+        }
+      ]
+    }
+  ]
+}

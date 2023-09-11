@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.mrcraftteammc.gaoshilib",
+    "module": "GaoShiLib-bukkit-1.20.1",
+    "version": "1.0.0-alpha.2-bukkit-mc1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
+          "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
+          "size": 1983,
+          "sha512": "431f6cb2257bd4815cd2b07e585c07442f33a3b9e54a4509eaab392fff74baeb6365f60b8112e5f52bc9cca5b8b23cb59cd872e644dc6708dfb576fcfcd064d5",
+          "sha256": "faa23770ddd0dff1dbd83c037d460699f06d460a90d2fe904b97a1a6017e898f",
+          "sha1": "821704e06d8bcfc9ae02a648e5902b61e5195f6c",
+          "md5": "60defbd86a4cd7f376a951462ccb2f27"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
+          "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
+          "size": 1983,
+          "sha512": "431f6cb2257bd4815cd2b07e585c07442f33a3b9e54a4509eaab392fff74baeb6365f60b8112e5f52bc9cca5b8b23cb59cd872e644dc6708dfb576fcfcd064d5",
+          "sha256": "faa23770ddd0dff1dbd83c037d460699f06d460a90d2fe904b97a1a6017e898f",
+          "sha1": "821704e06d8bcfc9ae02a648e5902b61e5195f6c",
+          "md5": "60defbd86a4cd7f376a951462ccb2f27"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-sources.jar",
+          "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-sources.jar",
+          "size": 1698,
+          "sha512": "7f482defde4fa8374c658153cdc43dda4d487931d25632b7cbc9414888b4042e1cd83cc0b37497a42d072a5543613b8221180b8418d1f112d97cb5fc9ca44b71",
+          "sha256": "06972583d6c9122d0c24d35dc82337fedc47f3a723ff7791f2a9eb2d5a4bbe7d",
+          "sha1": "0b8a7803670886bd4c638084827dd40da488218f",
+          "md5": "dc2de734a352f170641c81e15fb56a9f"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev-all.jar",
+          "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev-all.jar",
+          "size": 21347,
+          "sha512": "a2dc9012d7c237a0cf38a6d56250f7ec4187f63cd05e95d4247bf98357ae93b9cc49508ebfb42824b87f0b4817fb92ce5f9897577cf5b569f43d064a3ec0f02c",
+          "sha256": "5b5f7018404910e1c742f6596f9c6c883290d9ca004b225605490a86f78b7ae0",
+          "sha1": "a790b795db2d8a2af23c919d49a3e4fbf8412e64",
+          "md5": "13a185b2e6ec777847355fcf5ab6a8d5"
+        }
+      ]
+    }
+  ]
+}
