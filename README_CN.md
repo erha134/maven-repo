@@ -1,14 +1,14 @@
-[中文](./README_CN.md) | English
+中文 | [English](./README.md)
 
 # maven-repo
-My maven Repo
+我的 Maven 仓库
 
 ## Usage
 
-Add Repositories:
+添加仓库:
 ```gradle
 repositories {
-    // Add This
+    // 添加这个
     maven {
         name = "MrCraftTeamMC Release Maven"
         url = "https://raw.githubusercontent.com/erha134/maven-repo/main/releases/"
