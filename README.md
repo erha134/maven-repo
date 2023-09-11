@@ -8,8 +8,12 @@ Add Repositories:
 repositories {
     // Add This
     maven {
-        name = "MrCraftTeamMC Maven"
+        name = "MrCraftTeamMC Release Maven"
         url = "https://raw.githubusercontent.com/erha134/maven-repo/main/releases/"
+    }
+    maven {
+        name = "MrCraftTeamMC Snapshot Maven"
+        url = "https://raw.githubusercontent.com/erha134/maven-repo/main/snapshot/"
     }
 }
 ```
