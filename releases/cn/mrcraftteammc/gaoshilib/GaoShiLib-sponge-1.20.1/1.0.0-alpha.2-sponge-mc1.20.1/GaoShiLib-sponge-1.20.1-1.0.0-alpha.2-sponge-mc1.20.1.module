@@ -28,10 +28,10 @@
           "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
           "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
           "size": 2050,
-          "sha512": "1a647758045d73c0ae1fec5e709c1098c593392a3a3c27be856968d2c8fe692509384d91fbefdefff3b4eb55510316920dd5ff11b17c8ed6f01ec38ece86726e",
-          "sha256": "a642a14a8860a5c7e8ec450044eb3c48c1e68ac7e8b48387458bcfe4d2c7ad47",
-          "sha1": "0114f6556232a5845440f39cb2998a839075a941",
-          "md5": "8df41e75d3ea9c3beb050fb108257874"
+          "sha512": "7464a9e25863554c13cb99ec74f873773f53bad68a199883506f9c2098524da86f0979e49a12f1a9b6062dc80183dd616dbc2f57c8f4bd09e60cbf1635a62b6e",
+          "sha256": "38d9e2fbba7bf30d4273aef8e25c94fce5b001ad528409a1822d8cc56bd4dcf3",
+          "sha1": "884ef39c5bba8268d5a657230061eea55adcf1b5",
+          "md5": "ddb33e20b7eb3464ba93f3c8eede407c"
         }
       ]
     },
@@ -65,10 +65,10 @@
           "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
           "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1.jar",
           "size": 2050,
-          "sha512": "1a647758045d73c0ae1fec5e709c1098c593392a3a3c27be856968d2c8fe692509384d91fbefdefff3b4eb55510316920dd5ff11b17c8ed6f01ec38ece86726e",
-          "sha256": "a642a14a8860a5c7e8ec450044eb3c48c1e68ac7e8b48387458bcfe4d2c7ad47",
-          "sha1": "0114f6556232a5845440f39cb2998a839075a941",
-          "md5": "8df41e75d3ea9c3beb050fb108257874"
+          "sha512": "7464a9e25863554c13cb99ec74f873773f53bad68a199883506f9c2098524da86f0979e49a12f1a9b6062dc80183dd616dbc2f57c8f4bd09e60cbf1635a62b6e",
+          "sha256": "38d9e2fbba7bf30d4273aef8e25c94fce5b001ad528409a1822d8cc56bd4dcf3",
+          "sha1": "884ef39c5bba8268d5a657230061eea55adcf1b5",
+          "md5": "ddb33e20b7eb3464ba93f3c8eede407c"
         }
       ]
     },
@@ -85,10 +85,10 @@
           "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-sources.jar",
           "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-sources.jar",
           "size": 1750,
-          "sha512": "9927dcd0f411c905e4d1d5163ea88926dc37beca137babcdad068e6adfb452afd451895b53ac9b8af1d822c8f1d0198804f82f6fef2bce4d65b90ea0328adfb5",
-          "sha256": "3e359d8c32635f1f0fdeead5f13ac6cc4b573fbead88350b9566a12c6b88149b",
-          "sha1": "f3ae8c044bdc178be797989488aafdf4bc1c11c7",
-          "md5": "a3c5c830255c79422e6280081e50ac46"
+          "sha512": "802e574481ed65a9a48d19f306b66e64817c6bc9bc4dbfa935ca71117fde27431bde01dbd92087342ac73f9b1f05a6b0897f43b4f237d335e4b37a19bce32ad5",
+          "sha256": "3dd2852990c67a4c668a8cf4fa7fd401c3fbb4102778dd737be4b5d5e3a8a8a8",
+          "sha1": "3cacacaa4c69645e902bbc93e90cb46ec1f609a2",
+          "md5": "0823e45b761db489fbbb60d2c01c9f83"
         }
       ]
     },
@@ -105,10 +105,10 @@
           "name": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-all.jar",
           "url": "GaoShiLib-sponge-1.20.1-1.0.0-alpha.2-sponge-mc1.20.1-all.jar",
           "size": 10055901,
-          "sha512": "813acbbf148c5e800a5d43dd78000d56a4e91f5ec6cf47b843338a6936dbb08e8e183cccc1df5739ebfb3263df8504a476c347df7670fd11b804ac78a591ed6f",
-          "sha256": "1286047725d6ab6ee7826c02e685eaa026a1fc0f449ba17de0f0a2d22a13df53",
-          "sha1": "99c426195cf5c4de0fd7c62afd4043abbab33a34",
-          "md5": "03dcc1b597b3fe50de4e040148be05e5"
+          "sha512": "92df5055e94cef05865245f93ce4170869a08ecc2cf6a45c6d7f5c892ee4cc86b611e592d04050eaa68718e9937ced3198b5e07453350b044e96f75afcd09c3f",
+          "sha256": "5b2a2002c3549de31a37cc36926e3336cef118a37203af9f87ecbaba80df2cbd",
+          "sha1": "9abb6b1556da86447c52d9e8ae10eaa7e675197c",
+          "md5": "fb0a1ab32ee97547c1d297459983596c"
         }
       ]
     }

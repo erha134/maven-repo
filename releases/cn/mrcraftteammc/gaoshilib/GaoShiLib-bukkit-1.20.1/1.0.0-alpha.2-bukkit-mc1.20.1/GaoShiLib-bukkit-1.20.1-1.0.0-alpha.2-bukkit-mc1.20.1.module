@@ -28,10 +28,10 @@
           "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
           "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
           "size": 1983,
-          "sha512": "431f6cb2257bd4815cd2b07e585c07442f33a3b9e54a4509eaab392fff74baeb6365f60b8112e5f52bc9cca5b8b23cb59cd872e644dc6708dfb576fcfcd064d5",
-          "sha256": "faa23770ddd0dff1dbd83c037d460699f06d460a90d2fe904b97a1a6017e898f",
-          "sha1": "821704e06d8bcfc9ae02a648e5902b61e5195f6c",
-          "md5": "60defbd86a4cd7f376a951462ccb2f27"
+          "sha512": "b54c7b265550a5f773be57ebe07c5b9e5ed2c88728ef387ec66a072e07ba3667ceec053ff18565876fd3f9f9f7520617e85673daf54c5c5a63c10188fbe22046",
+          "sha256": "f59f5bd71b17ad57e5ded55cfb9c87edc64658b31d79755e44b09e022ba6c21c",
+          "sha1": "3a75e6ca8a37e152d32bcd783495ee4c1a3d381e",
+          "md5": "49cf900915eb42fea7544743aac7079d"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
           "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev.jar",
           "size": 1983,
-          "sha512": "431f6cb2257bd4815cd2b07e585c07442f33a3b9e54a4509eaab392fff74baeb6365f60b8112e5f52bc9cca5b8b23cb59cd872e644dc6708dfb576fcfcd064d5",
-          "sha256": "faa23770ddd0dff1dbd83c037d460699f06d460a90d2fe904b97a1a6017e898f",
-          "sha1": "821704e06d8bcfc9ae02a648e5902b61e5195f6c",
-          "md5": "60defbd86a4cd7f376a951462ccb2f27"
+          "sha512": "b54c7b265550a5f773be57ebe07c5b9e5ed2c88728ef387ec66a072e07ba3667ceec053ff18565876fd3f9f9f7520617e85673daf54c5c5a63c10188fbe22046",
+          "sha256": "f59f5bd71b17ad57e5ded55cfb9c87edc64658b31d79755e44b09e022ba6c21c",
+          "sha1": "3a75e6ca8a37e152d32bcd783495ee4c1a3d381e",
+          "md5": "49cf900915eb42fea7544743aac7079d"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-sources.jar",
           "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-sources.jar",
           "size": 1698,
-          "sha512": "7f482defde4fa8374c658153cdc43dda4d487931d25632b7cbc9414888b4042e1cd83cc0b37497a42d072a5543613b8221180b8418d1f112d97cb5fc9ca44b71",
-          "sha256": "06972583d6c9122d0c24d35dc82337fedc47f3a723ff7791f2a9eb2d5a4bbe7d",
-          "sha1": "0b8a7803670886bd4c638084827dd40da488218f",
-          "md5": "dc2de734a352f170641c81e15fb56a9f"
+          "sha512": "0a0c8147eb73d4dfdb019b1d8fd09d089f772f84d2e5d2aa7ab9f3bf3d00039a12d64d9db66335dca88f3d753059446c771fccb2cc183eb5254f1af1da9c2b89",
+          "sha256": "1795899daf2d3d07684b7755633bd133440564ada7bb81f0830850f108196fe5",
+          "sha1": "40719adf5fde24d791c3da9284c9bc4817db05ea",
+          "md5": "b754983a17300302b57a051522e96d1a"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev-all.jar",
           "url": "GaoShiLib-bukkit-1.20.1-1.0.0-alpha.2-bukkit-mc1.20.1-dev-all.jar",
           "size": 21347,
-          "sha512": "a2dc9012d7c237a0cf38a6d56250f7ec4187f63cd05e95d4247bf98357ae93b9cc49508ebfb42824b87f0b4817fb92ce5f9897577cf5b569f43d064a3ec0f02c",
-          "sha256": "5b5f7018404910e1c742f6596f9c6c883290d9ca004b225605490a86f78b7ae0",
-          "sha1": "a790b795db2d8a2af23c919d49a3e4fbf8412e64",
-          "md5": "13a185b2e6ec777847355fcf5ab6a8d5"
+          "sha512": "34b5f6b8be2e23726794eeec8b061c9c71cc996f9e0cb16d8e76b27d0115a7eca4a80e8ae91ca8f46a75bb0e8df53c2d66a3e81fa1f8bf7d092e6a8da54642ea",
+          "sha256": "5687b567121488cff53daf2b6417c318b83cccb3ddae67e77fb7392b21115cd8",
+          "sha1": "4a176e7fe77b07053bdc1b75d0b633753f6df0eb",
+          "md5": "584c78e2690b997de95ea58a61f44c12"
         }
       ]
     }

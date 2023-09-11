@@ -64,10 +64,10 @@
           "name": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.2-mc1.20.1.jar",
           "url": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.2-mc1.20.1.jar",
           "size": 35883,
-          "sha512": "516ba3bbfc32eb7a6a7c8b369cbc5bd0ce8f86822666ec5053c640f9e2682e835db35573fc723d3a1137139deb52a99eb55b9850cdbac44de7f1c01505c7cc63",
-          "sha256": "09888e05c11b7ce6c51a7090f7594c0b5694595fdcfbadfabc11d7f92cb57d8d",
-          "sha1": "3053dfe82bde53616606f3198581a3e05bcfdbc1",
-          "md5": "f602de05fd5de2296fa433e4500167d9"
+          "sha512": "b679e605dcd85d27a42a2f36f301efdda9dd8e32dd90502cddf1e98aa3057c670ca505abc45de93b3372d970f2c14368cfa04c7df57a51f13b2b22255d52d623",
+          "sha256": "ed57355c0195516fc8907ef5365d0b0c2c4551294211b672c89fb5302ec5cf61",
+          "sha1": "15646f386528db175eb9dfe060848d2ad5055ef2",
+          "md5": "16539514cac41cf562adfb760c9d89f2"
         }
       ]
     },
@@ -135,10 +135,10 @@
           "name": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.2-mc1.20.1.jar",
           "url": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.2-mc1.20.1.jar",
           "size": 35883,
-          "sha512": "516ba3bbfc32eb7a6a7c8b369cbc5bd0ce8f86822666ec5053c640f9e2682e835db35573fc723d3a1137139deb52a99eb55b9850cdbac44de7f1c01505c7cc63",
-          "sha256": "09888e05c11b7ce6c51a7090f7594c0b5694595fdcfbadfabc11d7f92cb57d8d",
-          "sha1": "3053dfe82bde53616606f3198581a3e05bcfdbc1",
-          "md5": "f602de05fd5de2296fa433e4500167d9"
+          "sha512": "b679e605dcd85d27a42a2f36f301efdda9dd8e32dd90502cddf1e98aa3057c670ca505abc45de93b3372d970f2c14368cfa04c7df57a51f13b2b22255d52d623",
+          "sha256": "ed57355c0195516fc8907ef5365d0b0c2c4551294211b672c89fb5302ec5cf61",
+          "sha1": "15646f386528db175eb9dfe060848d2ad5055ef2",
+          "md5": "16539514cac41cf562adfb760c9d89f2"
         }
       ]
     },
@@ -155,10 +155,10 @@
           "name": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.2-mc1.20.1-sources.jar",
           "url": "GaoShiLib-xplat-1.20.1-1.0.0-alpha.2-mc1.20.1-sources.jar",
           "size": 30769,
-          "sha512": "9ce3e7ccc977b354b51510eca2b0fde380af4dfec106dfb6a0d04f1d463735641ad1c2607ead03cc97d7c97bdfaf4391e1415069b887e3023f48068c4b7c3f13",
-          "sha256": "7d200f0761f273bd1445b7bc221fea4e01d70c04c45a38a543befd3602fabce3",
-          "sha1": "be677c91fe3e8fd516a2d1fca94acd6f665cfaf3",
-          "md5": "f64b9693b96abae3daefc6f9ad5ed702"
+          "sha512": "ec99e0cfc40d5de61c5e06a35cff0c4b298febb8c9e43ad4a6f32c671738ce8eae109ab7a1df3f19e915ce2d2ad0979e3df1c3b997a8e2d207fc71acd2f35420",
+          "sha256": "616d36455fc0b41d27924573a339174d86799709784667df519cb5194b3ec255",
+          "sha1": "4e7d36d69c737b92f924d39f6785fb89ba2a90bc",
+          "md5": "2508d1d435390260c41a963764e17c36"
         }
       ]
     }

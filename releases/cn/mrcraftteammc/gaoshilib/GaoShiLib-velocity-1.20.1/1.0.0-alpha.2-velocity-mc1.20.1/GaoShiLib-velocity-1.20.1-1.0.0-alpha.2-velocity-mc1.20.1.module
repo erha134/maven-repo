@@ -28,10 +28,10 @@
           "name": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1.jar",
           "url": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1.jar",
           "size": 2082,
-          "sha512": "b0c960650adf0b1126d14f87d72b0773c61b770172ba221b9f18169d6f0a247024a4e76f02ec49df9b1467c63c79e4ab73e1a5f3dac92e5aca6ada0f4653eef4",
-          "sha256": "aa2e0fd381b3980991616c5e7dc77f4927409ae8a22ce529a62f7fcb21f2a9ec",
-          "sha1": "05c2f07d2b1cee590a2db11892b748f413c5ac2d",
-          "md5": "90873d68aa796f82c184cd2ee1a9ee59"
+          "sha512": "8404f57dcbc76514278644d3f1daa1f131a7d63c88b0d8e4b9fe78fa3593e15868b3227c0d82580adefb6035da3f478ffdf7f5b7bbe2322a2ccafa2281990397",
+          "sha256": "9ff3ea026c45b2fb0e34e69763813a10f6c7086b2f67cb4b4841380fc86ba766",
+          "sha1": "1adafdaedb595162acbf4ff09ad5f5d27daa75bf",
+          "md5": "5aff7278397a4e1d1952c888354ef868"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1.jar",
           "url": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1.jar",
           "size": 2082,
-          "sha512": "b0c960650adf0b1126d14f87d72b0773c61b770172ba221b9f18169d6f0a247024a4e76f02ec49df9b1467c63c79e4ab73e1a5f3dac92e5aca6ada0f4653eef4",
-          "sha256": "aa2e0fd381b3980991616c5e7dc77f4927409ae8a22ce529a62f7fcb21f2a9ec",
-          "sha1": "05c2f07d2b1cee590a2db11892b748f413c5ac2d",
-          "md5": "90873d68aa796f82c184cd2ee1a9ee59"
+          "sha512": "8404f57dcbc76514278644d3f1daa1f131a7d63c88b0d8e4b9fe78fa3593e15868b3227c0d82580adefb6035da3f478ffdf7f5b7bbe2322a2ccafa2281990397",
+          "sha256": "9ff3ea026c45b2fb0e34e69763813a10f6c7086b2f67cb4b4841380fc86ba766",
+          "sha1": "1adafdaedb595162acbf4ff09ad5f5d27daa75bf",
+          "md5": "5aff7278397a4e1d1952c888354ef868"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1-sources.jar",
           "url": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1-sources.jar",
           "size": 1538,
-          "sha512": "66b2f770a630f4e010064a65b51e3837c97f027ee30cb9c42a3bcf207d78b4ac14da5287f1f77b8b1aee01e731fc4409149644dc4e3464b87e3a0530512ec7ec",
-          "sha256": "0d37b6719b28fbb08995b618ec8f789d74a76abfb32fb61937691a0ab59b6821",
-          "sha1": "7782167b57351bc0e0e7acc36ca9214f50ed1618",
-          "md5": "69506c92b00a2194f94a1760e745cf0b"
+          "sha512": "59c4386578f7073d70ad44cc339c76d4e960852a6a6565d7838240a43d6207fe400f319e367eb8154ea654d52c3823ac864d087286a316596f9655d44aec9ab6",
+          "sha256": "d99e9ceecef16076441bb97b40dfed8adf60771f9d66b7c6566c860307129336",
+          "sha1": "20bf1815f803321c0eeb9de90446cea2dc7178d9",
+          "md5": "8a38306cd59e95cf2b3d966423b3aa3d"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1-all.jar",
           "url": "GaoShiLib-velocity-1.20.1-1.0.0-alpha.2-velocity-mc1.20.1-all.jar",
           "size": 21446,
-          "sha512": "be452f7020088998511b4cba87d34c657ea68fe403722fcc88b3587d1ab6b260659d623e5858f33583ea6e883533f6738b654c396d2be18caf4cce4aa68a6424",
-          "sha256": "17f1002e44c638aaf3b756dc29947c49b6937d13d88e0da319bf6cd1e6480a5a",
-          "sha1": "43ab72d6bbc028c7652fa84d80f884c43895e7ba",
-          "md5": "0b84496d02873f41b962f61d4c05ee97"
+          "sha512": "946f14fec6af46e5929c84d1852845afe8999baec3e730fbcd8b8f05a547f94f87ea2ba8be984f769c989cba9b0c33ee5ef661ef05be8758452fec2dac969ab6",
+          "sha256": "76dd2bf3fc5c38473931ee8a3bcd5789a660bdfc4a7a7d65b629cffca2b8d51f",
+          "sha1": "5f45554131e00b175b6cade09c9925b6f50feb30",
+          "md5": "3805fd269118f9d1a8c36b74543b1672"
         }
       ]
     }

@@ -56,11 +56,11 @@
         {
           "name": "GaoShiLib-forge-1.20.1-1.0.0-alpha.2-forge-mc1.20.1.jar",
           "url": "GaoShiLib-forge-1.20.1-1.0.0-alpha.2-forge-mc1.20.1.jar",
-          "size": 74650,
-          "sha512": "aa8062e5bdd8a65ea1fe0a53f06a999fd56eef4ead0e8969aaa933fe51f0a8e9fe49e1035b0f654be37679b5c7fe41afd4c5cf3532a64ce1a65597450d45bada",
-          "sha256": "41047e29f36fe987fa93e382972220019c3c0b54d65f247f40e8abce706f8e31",
-          "sha1": "ea794d165897161d9550d71eaa8457aacb48cee1",
-          "md5": "fb10ea4e4bc4be3ff38221c997aafb6b"
+          "size": 74649,
+          "sha512": "92c42177bac319e0ec36481ca26a8866cf7c49f0baa29ca9332ea52a4453f7d2e8b02a4d8987f358a7e95954ea3ba662c8792b9249b564ec8aa1d37d557c8628",
+          "sha256": "396814a4876a17ceb4730db3bf4f40bf9c49425ce785544dccddba9c2f8b2d32",
+          "sha1": "f92f1faee8ab166c5d2b9bb1dc4611a3660e7e7b",
+          "md5": "3bd587fac5b0c8496201e7da8dbee08f"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "GaoShiLib-forge-1.20.1-1.0.0-alpha.2-forge-mc1.20.1.jar",
           "url": "GaoShiLib-forge-1.20.1-1.0.0-alpha.2-forge-mc1.20.1.jar",
-          "size": 74650,
-          "sha512": "aa8062e5bdd8a65ea1fe0a53f06a999fd56eef4ead0e8969aaa933fe51f0a8e9fe49e1035b0f654be37679b5c7fe41afd4c5cf3532a64ce1a65597450d45bada",
-          "sha256": "41047e29f36fe987fa93e382972220019c3c0b54d65f247f40e8abce706f8e31",
-          "sha1": "ea794d165897161d9550d71eaa8457aacb48cee1",
-          "md5": "fb10ea4e4bc4be3ff38221c997aafb6b"
+          "size": 74649,
+          "sha512": "92c42177bac319e0ec36481ca26a8866cf7c49f0baa29ca9332ea52a4453f7d2e8b02a4d8987f358a7e95954ea3ba662c8792b9249b564ec8aa1d37d557c8628",
+          "sha256": "396814a4876a17ceb4730db3bf4f40bf9c49425ce785544dccddba9c2f8b2d32",
+          "sha1": "f92f1faee8ab166c5d2b9bb1dc4611a3660e7e7b",
+          "md5": "3bd587fac5b0c8496201e7da8dbee08f"
         }
       ]
     },
@@ -127,10 +127,10 @@
           "name": "GaoShiLib-forge-1.20.1-1.0.0-alpha.2-forge-mc1.20.1-sources.jar",
           "url": "GaoShiLib-forge-1.20.1-1.0.0-alpha.2-forge-mc1.20.1-sources.jar",
           "size": 33406,
-          "sha512": "4a005403c5e04177ed07e27ebf4801f4ce436cdaca52a21961931fad1bad4b57ecef703f4dfa42a986fc43ec03cb73bf53314272ddacc8edec2417641e5eab61",
-          "sha256": "8e23eac43932b2acc4b22dab60133303ddbd2340ac3aee1a429d0771cdc1518e",
-          "sha1": "d7971ce23f20119b993ae3fb70d1016225f3052b",
-          "md5": "8061a50c65388207213fef4b8802568b"
+          "sha512": "26603f7fb03fcbe58d45ad04e62b81a7dff3b07881ce320850690a9615ff95c1e837d5afa531b5aec4bf64ad4a9fcdda8e1e2347cecc55bc4b26d10e0ba7a148",
+          "sha256": "2ec27c13db063ba7da8fa62e7ff7377836749d39a0d83180c4204b632f07e020",
+          "sha1": "247be98fa360c0c664c03c668d8a0ea00a66da27",
+          "md5": "70986486f46dd1618d403b80af06a03a"
         }
       ]
     }

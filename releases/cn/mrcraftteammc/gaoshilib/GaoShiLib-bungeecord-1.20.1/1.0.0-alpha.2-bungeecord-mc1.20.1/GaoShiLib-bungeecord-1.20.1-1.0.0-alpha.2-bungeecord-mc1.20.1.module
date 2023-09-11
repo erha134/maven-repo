@@ -28,10 +28,10 @@
           "name": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1.jar",
           "url": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1.jar",
           "size": 2174,
-          "sha512": "07c2deca43384ca43eea334832dcffc0dc714ce15c86321663691deb3d971012ceb29ea449e1dfbe297074470b98f13cd48c26f8128bcfaa2c0e2cce3c08c682",
-          "sha256": "e334db6c1a4b7ab117cad6106cc69a56c05f42b3d4ba07ebb4c443d67260ae3a",
-          "sha1": "0ba700051561b58fb96271c2d5e1d63fbf2e6265",
-          "md5": "357c89c5a5cdf82ccbaa6adfd072d384"
+          "sha512": "38e8782f1398ec12d9737b8f180ce9136e86e4970e0aff8e9338e766f4d252471f44f7a7a6a689fd3b21bf870c3404f199685ffbe8f043064069d3d08b694010",
+          "sha256": "8334d77dfb86ba78be605dabb68e5dfd904c18b6917526a754e9729025706110",
+          "sha1": "e76c5363340c33cbdb73e2b740496d29e758b51c",
+          "md5": "f84cec3ad495b553fb0b6cf862b8817f"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1.jar",
           "url": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1.jar",
           "size": 2174,
-          "sha512": "07c2deca43384ca43eea334832dcffc0dc714ce15c86321663691deb3d971012ceb29ea449e1dfbe297074470b98f13cd48c26f8128bcfaa2c0e2cce3c08c682",
-          "sha256": "e334db6c1a4b7ab117cad6106cc69a56c05f42b3d4ba07ebb4c443d67260ae3a",
-          "sha1": "0ba700051561b58fb96271c2d5e1d63fbf2e6265",
-          "md5": "357c89c5a5cdf82ccbaa6adfd072d384"
+          "sha512": "38e8782f1398ec12d9737b8f180ce9136e86e4970e0aff8e9338e766f4d252471f44f7a7a6a689fd3b21bf870c3404f199685ffbe8f043064069d3d08b694010",
+          "sha256": "8334d77dfb86ba78be605dabb68e5dfd904c18b6917526a754e9729025706110",
+          "sha1": "e76c5363340c33cbdb73e2b740496d29e758b51c",
+          "md5": "f84cec3ad495b553fb0b6cf862b8817f"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1-sources.jar",
           "url": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1-sources.jar",
           "size": 1817,
-          "sha512": "e0e52e84c95e8feaeec2a1c5f5cdd3019532cd16657c53561a33739c75ee9ebf75a20cf7d6901b81ec649ccee6e6b3026ede72a9686374a1654a837a3650de9b",
-          "sha256": "a7142680e6a672221adc1982e5a1248b2d93afd8a9386b4761c85aa5838e35c6",
-          "sha1": "fa63c2ec6146aedcf1581977b8ec213c188079b2",
-          "md5": "13064d2d783f736f4b60d2f39e671e0a"
+          "sha512": "a09ef07cec1120c721a6ec29908d3b3ffa1fe9059617f0efe7d537aa33e6a8778225c95405b652436bb4e026d754adc71a4cdfc521d7e9248a577d8abd7b97cb",
+          "sha256": "e70c9875796a1b172ddf9815cf3638434ccf451b91255436df6349a03346d77f",
+          "sha1": "0c82ec72730b57d1598b8dc03eae1f047323f82d",
+          "md5": "8ef0fcfdd36dd13b16a4f6713f1568c9"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1-all.jar",
           "url": "GaoShiLib-bungeecord-1.20.1-1.0.0-alpha.2-bungeecord-mc1.20.1-all.jar",
           "size": 21538,
-          "sha512": "9a11c56778fdb3a359600085d899f9a1bd02f211fd24f8b5aceb34a158ae88c7059107d2286134c38b211eb231a8015b0522259935772401f277a9f25b677fa9",
-          "sha256": "789f340f099e0fbd5b096eb29a2c2018df93f56492e318ef9280ed3c5ded3ad0",
-          "sha1": "e5beab46e6393b650aa61ce466f8ff390967a4fb",
-          "md5": "4bd1f1b8021f75e15c7de4c0d49a3bca"
+          "sha512": "a13e5c972fd42e81f1a1b6c1bbfbaacd7a54533b569dc058476ded491d1bb517d9c8e384d4eb61c8f96d7b1bd495e0fdb99072faed54b664fc068d2e458b7a2a",
+          "sha256": "0729e5ccb2a30a7841704e40242df6f2224393681d8ebbc0f19432d7dfd9e845",
+          "sha1": "ba8fa2b43ae725ea365ad4193b58d601f28e7351",
+          "md5": "7b96f7553fc7bcfe5fe0fa71721c1b8a"
         }
       ]
     }
